@@ -1,0 +1,8 @@
+C:\Users\Сергей\Desktop\Синержи\СиШарп\CurrentYear\CurrentYear\obj\Debug\CurrentYear.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\Синержи\СиШарп\CurrentYear\CurrentYear\obj\Debug\CurrentYear.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сергей\Desktop\Синержи\СиШарп\CurrentYear\CurrentYear\obj\Debug\CurrentYear.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Синержи\СиШарп\CurrentYear\CurrentYear\bin\Debug\CurrentYear.exe.config
+C:\Users\Сергей\Desktop\Синержи\СиШарп\CurrentYear\CurrentYear\bin\Debug\CurrentYear.exe
+C:\Users\Сергей\Desktop\Синержи\СиШарп\CurrentYear\CurrentYear\bin\Debug\CurrentYear.pdb
+C:\Users\Сергей\Desktop\Синержи\СиШарп\CurrentYear\CurrentYear\obj\Debug\CurrentYear.exe
+C:\Users\Сергей\Desktop\Синержи\СиШарп\CurrentYear\CurrentYear\obj\Debug\CurrentYear.pdb
